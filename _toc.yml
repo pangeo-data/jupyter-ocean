@@ -1,0 +1,9 @@
+# nothing here yet
+#   Actually I will try to place a pointer to the chlorophyll notebook here
+# jupyter-earth has a sub-folder called `docs` with a _toc.yml file that has two entries: 
+# - file: index
+# - file: tools
+# 
+# The corresponding files are in the same folder: index.md and tools.md. Both are a few lines of markdown.
+#
+- file: chlorophyll
